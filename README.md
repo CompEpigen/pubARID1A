@@ -12,7 +12,7 @@ __This repository contains the code and data for the research paper titled "ARID
 To reproduce the figures and results presented in the paper, follow these steps:
 
 1. Clone this repository:
-`git clone https://github.com/yourusername/my_paper_repository.git`
+`git clone https://github.com/CompEpigen/pubARID1A.git`
 2. Install the required R packages:
 ```R
 install.packages("renv")
