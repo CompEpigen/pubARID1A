@@ -1,5 +1,5 @@
 
-_This repository contains the code and data for the research paper titled "ARID1A regulates DSB repair through chromatin organization and its deficiency triggers DNA damage-mediated immune response."_
+__This repository contains the code and data for the research paper titled "ARID1A regulates DSB repair through chromatin organization and its deficiency triggers DNA damage-mediated immune response."__
 
 ## Overview
 
