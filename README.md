@@ -4,7 +4,6 @@ __This repository contains the code and data for the research paper titled "ARID
 ## Overview
 
 - `code/`: Contains R scripts for data analysis, figure generation, and statistical tests.
-- `data/`: Contains the raw data used in the analysis.
 - `LICENSE`: This repository is licensed under the [MIT License](LICENSE).
 - `renv.lock`: List of R packages and dependencies needed to run the code.
 
