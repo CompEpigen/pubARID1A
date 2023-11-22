@@ -23,7 +23,7 @@ renv::restore()
 
 ## Citation
 
-If you use the code or data from this repository in your own work, please contact [Dr. Ali Bakr](a.bakr@dkfz.de) or [Dr. Mei-Ju May Chen](mei-ju.chen@dkfz.de) in advance.
+If you use the code or data from this repository in your own work, please contact [Dr. Ali Bakr](https://www.dkfz.de/en/CanEpi/staff/kontakt/Bakr.php) or [Dr. Mei-Ju May Chen](https://www.dkfz.de/en/CanEpi/staff/kontakt/May.php) in advance.
 
 
 ## License
